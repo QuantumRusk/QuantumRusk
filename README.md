@@ -13,4 +13,4 @@ I am a college student pursuing **Information Science and Engineering (ISE)** at
 ### 🌐 Connect with Me
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anumeh-patil-867b39280/)
 * [![Devfolio](https://img.shields.io/badge/Devfolio-%233770FF.svg?style=for-the-badge&logo=devfolio&logoColor=white)](https://devfolio.co/@AN8)
-* [![Portfolio](https://quantumrusk.github.io/)
+* [![Portfolio](https://img.shields.io/badge/Portfolio-%233770C3.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://quantumrusk.github.io/)
