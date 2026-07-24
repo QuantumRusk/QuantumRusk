@@ -9,6 +9,7 @@ I am a college student pursuing **Information Science and Engineering (ISE)** at
 ### >> Projects I'm Building
 * **VibeWrite:** An AI-powered premium content studio built for rapid tone modulation using the Google Gemini API.
 * **Traffic Simulation Engine:** A Python-based routing simulation tracking pathfinding cost equations over dynamic matrices.
+* **Pneumonia - detector:** It is AI-based Pneumonia detector. Model has been trained on available kaggle chest-xray data set.
 
 
 ### >> Connect with Me
