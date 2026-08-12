@@ -3,8 +3,8 @@
 I am a college student pursuing **Information Science and Engineering (ISE)** at NMIT Bangalore. Currently sharpening my software development skills and prepping for future engineering goals.
 
 ### >> Tech Stack & Skills
-* **Languages:** Python, JavaScript / TypeScript, C++
-* **Frameworks & Tools:** Next.js, React, Tailwind CSS, Git & GitHub
+* **Languages:** Python, C++
+* **Frameworks & Tools:** Next.js, React, Tailwind CSS, Git & GitHub, FastAPI, Pytorch
 
 ### >> Projects I'm Building
 * **VibeWrite:** An AI-powered premium content studio built for rapid tone modulation using the Google Gemini API.
