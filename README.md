@@ -27,15 +27,9 @@ I am a college student pursuing **Information Science and Engineering (ISE)** at
 </a>
 
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3770FF,100:0077B5&height=220&section=header&text=Hi%20There,%20I'm%20Anumeh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20that%20think%20a%20little%20—%20ISE%20@%20NMIT%20Bangalore&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=3770FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+AI%2FML+Enthusiast;Building+VibeWrite+%E2%9C%8D%EF%B8%8F;Training+Models+That+Actually+Explain+Themselves;Currently+Prepping+for+TST+Club+%F0%9F%8E%A4" />
 
-</div>
-
-<br/>
 
 
 
