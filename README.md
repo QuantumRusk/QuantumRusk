@@ -4,7 +4,7 @@
 
 I am a college student pursuing Information Science and Engineering (ISE) at NMIT Bangalore. Currently sharpening my software development skills and prepping for future engineering goals.
 
-### >> Projects I'm Building
+# >> Projects I'm Building
 * **VibeWrite:** An AI-powered premium content studio built for rapid tone modulation using the Google Gemini API.
 * **Traffic Simulation Engine:** A Python-based routing simulation tracking pathfinding cost equations over dynamic matrices.
 * **Pneumonia - detector:** It is AI-based Pneumonia detector. Model has been trained on available kaggle chest-xray data set.
@@ -27,7 +27,7 @@ I am a college student pursuing Information Science and Engineering (ISE) at NMI
 ---
 [![](https://komarev.com/ghpvc/?username=QuantumRusk&icon=0&color=6)](https://visitcount.itsvg.in)
 
-### >> Connect with Me
+# >> Connect with Me
 
 <a href="https://www.linkedin.com/in/anumeh-patil-867b39280/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
