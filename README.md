@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3770FF,100:0077B5&height=220&section=header&text=Hi%20There,%20I'm%20Anumeh%20 👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20that%20think%20a%20little%20—%20ISE%20@%20NMIT%20Bangalore&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3770FF,100:0077B5&height=220&section=header&text=Hi%20There,%20I'm%20Anumeh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20that%20think%20a%20little%20—%20ISE%20@%20NMIT%20Bangalore&descAlignY=55&descSize=18" width="100%"/>
 
 I am a college student pursuing Information Science and Engineering (ISE) at NMIT Bangalore. Currently sharpening my software development skills and prepping for future engineering goals.
 
