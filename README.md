@@ -5,21 +5,6 @@
 I am a college student pursuing Information Science and Engineering (ISE) at NMIT Bangalore. Currently sharpening my software development skills and prepping for future engineering goals.
 
 # >> Projects I'm Building
-* **VibeWrite:** An AI-powered premium content studio built for rapid tone modulation using the Google Gemini API.
-* **Traffic Simulation Engine:** A Python-based routing simulation tracking pathfinding cost equations over dynamic matrices.
-* **Pneumonia - detector:** It is AI-based Pneumonia detector. Model has been trained on available kaggle chest-xray data set.
-
-# >> Projects I'm Building
-
-<details>
-<summary><b>✍️ VibeWrite — AI Content Studio</b></summary>
-<br/>
-
-> An AI-powered premium content studio built for rapid tone modulation using the Google Gemini API.
-
-`Next.js` `Gemini API` `Tailwind`
-
-</details>
 
 <details>
   <summary><b>🫁Pneumonia - detector</b></summary>
@@ -31,12 +16,23 @@ I am a college student pursuing Information Science and Engineering (ISE) at NMI
 </details>
 
 <details>
+<summary><b>✍️ VibeWrite — AI Content Studio</b></summary>
+<br/>
+
+> An AI-powered premium content studio built for rapid tone modulation using the Google Gemini API.
+
+`Next.js` `Gemini API` `Tailwind`
+
+</details>
+
+
+<details>
 <summary><b>🚦 Traffic Simulation Engine</b></summary>
 <br/>
 
-> A Python routing simulator that tracks pathfinding cost equations across dynamic matrices — watching shortest-path algorithms adapt in real time.
+> A Mathematical model equatio to find fastest and shortest distance between two points on local media.
 
-`Python` `Pathfinding` `Simulation`
+`Maths` `Pathfinding` `Simulation`
 
 </details>
 
