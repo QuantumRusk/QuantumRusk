@@ -1,14 +1,3 @@
-# 👋 Hi, I'm Anumeh!
-
-I am a college student pursuing **Information Science and Engineering (ISE)** at NMIT Bangalore. Currently sharpening my software development skills and prepping for future engineering goals.
-
-### >> Tech Stack & Skills
-* **Languages:** Python, C++
-* **Frameworks & Tools:** Next.js, React, Tailwind CSS, Git & GitHub, FastAPI, Pytorch
-
-
-
-
 
 
 # 👋 Hi, I'm Anumeh!
