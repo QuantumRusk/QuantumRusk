@@ -6,30 +6,19 @@ I am a college student pursuing **Information Science and Engineering (ISE)** at
 * **Languages:** Python, C++
 * **Frameworks & Tools:** Next.js, React, Tailwind CSS, Git & GitHub, FastAPI, Pytorch
 
+
+
+
+
+
+# 👋 Hi, I'm Anumeh!
+
+I am a college student pursuing Information Science and Engineering (ISE) at NMIT Bangalore. Currently sharpening my software development skills and prepping for future engineering goals.
+
 ### >> Projects I'm Building
 * **VibeWrite:** An AI-powered premium content studio built for rapid tone modulation using the Google Gemini API.
 * **Traffic Simulation Engine:** A Python-based routing simulation tracking pathfinding cost equations over dynamic matrices.
 * **Pneumonia - detector:** It is AI-based Pneumonia detector. Model has been trained on available kaggle chest-xray data set.
-
-
-### >> Connect with Me
-
-<a href="https://www.linkedin.com/in/anumeh-patil-867b39280/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://devfolio.co/@AN8" target="_blank">
-  <img src="https://img.shields.io/badge/Devfolio-%233770FF.svg?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio" />
-</a>
-
-<a href="https://quantumrusk.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%233770C3.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="Devfolio" />
-</a>
-
-
-
-# 💫 About Me:
-I am a college student pursuing Information Science and Engineering (ISE) at NMIT Bangalore. Currently sharpening my software development skills and prepping for future engineering goals.<br><br>>> Tech Stack & Skills<br>Languages: Python, C++<br>Frameworks & Tools: Next.js, React, Tailwind CSS, Git & GitHub, FastAPI, Pytorch<br>>> Projects I'm Building<br>VibeWrite: An AI-powered premium content studio built for rapid tone modulation using the Google Gemini API.<br>Traffic Simulation Engine: A Python-based routing simulation tracking pathfinding cost equations over dynamic matrices.<br>Pneumonia - detector: It is AI-based Pneumonia detector. Model has been trained on available kaggle chest-xray data set
 
 
 ## 🌐 Socials:
@@ -51,4 +40,18 @@ I am a college student pursuing Information Science and Engineering (ISE) at NMI
 ---
 [![](https://komarev.com/ghpvc/?username=QuantumRusk&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### >> Connect with Me
+
+<a href="https://www.linkedin.com/in/anumeh-patil-867b39280/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://devfolio.co/@AN8" target="_blank">
+  <img src="https://img.shields.io/badge/Devfolio-%233770FF.svg?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio" />
+</a>
+
+<a href="https://quantumrusk.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%233770C3.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="Devfolio" />
+</a>
+
+
