@@ -9,6 +9,30 @@ I am a college student pursuing Information Science and Engineering (ISE) at NMI
 * **Traffic Simulation Engine:** A Python-based routing simulation tracking pathfinding cost equations over dynamic matrices.
 * **Pneumonia - detector:** It is AI-based Pneumonia detector. Model has been trained on available kaggle chest-xray data set.
 
+</details>
+
+<details>
+<summary><b>✍️ VibeWrite — AI Content Studio</b></summary>
+<br/>
+
+> A premium content studio for rapid tone modulation, powered by the Google Gemini API — write once, reshape the voice instantly.
+
+`Next.js` `Gemini API` `Tailwind`
+
+</details>
+
+<details>
+<summary><b>🚦 Traffic Simulation Engine</b></summary>
+<br/>
+
+> A Python routing simulator that tracks pathfinding cost equations across dynamic matrices — watching shortest-path algorithms adapt in real time.
+
+`Python` `Pathfinding` `Simulation`
+
+</details>
+
+<br/>
+
 
 
 # >> Tech Stack:
@@ -42,3 +66,4 @@ I am a college student pursuing Information Science and Engineering (ISE) at NMI
 </a>
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:3770FF&height=120&section=footer" width="100%"/>
