@@ -7,7 +7,7 @@ I am a college student pursuing Information Science and Engineering (ISE) at NMI
 # >> Projects I'm Building
 
 <details>
-  <summary><b>🫁Pneumonia - detector</b></summary>
+  <summary><b>🫁 AI Pneumonia - detector</b></summary>
   <br/>
 
   > It is AI-based Pneumonia detector. Model has been trained on available kaggle chest-xray data set.
@@ -22,17 +22,6 @@ I am a college student pursuing Information Science and Engineering (ISE) at NMI
 > An AI-powered premium content studio built for rapid tone modulation using the Google Gemini API.
 
 `Next.js` `Gemini API` `Tailwind`
-
-</details>
-
-
-<details>
-<summary><b>🚦 Traffic Simulation Engine</b></summary>
-<br/>
-
-> A Mathematical model equatio to find fastest and shortest distance between two points on local media.
-
-`Maths` `Pathfinding` `Simulation`
 
 </details>
 
