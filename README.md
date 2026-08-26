@@ -54,7 +54,7 @@ I am a college student pursuing Information Science and Engineering (ISE) at NMI
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=QuantumRusk&icon=0&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=QuantumRusk&color=3770FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 # >> Connect with Me
 
